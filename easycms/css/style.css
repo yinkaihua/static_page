@@ -84,5 +84,5 @@ border: 1px solid #eaeaea;
 background-color: #fff;
 border-radius: 4px;
 }
-.index-main-center {width:82%; float:left;}
+.index-main-center {width:100%; float:left;}
 .index-main {max-width:1140px;width:100%;min-width:755px;margin:0 auto;overflow:hidden;margin-top:1%;margin-bottom:1%;}
